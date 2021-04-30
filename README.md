@@ -12,3 +12,7 @@
 ## Tabular
   1. [Loan Approval Tabular with FastAI](https://github.com/drniwech/deep.learning/blob/main/kaggle/loan-approval-tabular-model-with-fast-ai.ipynb). 
   2. [Census Income Tabular with FastAI](https://github.com/drniwech/deep.learning/blob/main/kaggle/census-income-tabular-model-fast-ai.ipynb). 
+
+## Facebook Prophet & Yahoo Finance
+  1. [Forecasting Gold Price with Facebook Prophet](https://github.com/drniwech/deep.learning/blob/main/kaggle/forecasting-gold-price-with-facebook-prophet.ipynb).
+  2. [Kaggle Stock Market Data and Yahoo Finance](https://github.com/drniwech/deep.learning/blob/main/kaggle/kaggle-stock-market-data-and-yahoo-finance.ipynb).
