@@ -21,4 +21,4 @@
   2. [Kaggle Stock Market Data and Yahoo Finance](https://github.com/drniwech/deep.learning/blob/main/kaggle/kaggle-stock-market-data-and-yahoo-finance.ipynb).
 
 ### HuggingFace
-  1. [NLP: Transformers](https://github.com/drniwech/deep.learning.kaggle/blob/main/kaggle/huggingface-nlp-transformers.ipynb).
+  1. [NLP: Transformers](https://github.com/drniwech/deep.learning.kaggle/blob/main/kaggle/huggingface-nlp-transformers).
