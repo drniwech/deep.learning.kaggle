@@ -22,3 +22,4 @@
 
 ### HuggingFace
   1. [NLP: Transformers](https://github.com/drniwech/deep.learning.kaggle/blob/main/kaggle/huggingface-nlp-transformers.ipynb).
+  2. [NLP: Behind the Pipeline, AutoTokenizer, and AutoModel](https://github.com/drniwech/deep.learning.kaggle/blob/main/kaggle/kaggle-huggingface-nlp-behind-the-pipeline.ipynb).
